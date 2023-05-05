@@ -205,12 +205,14 @@ For future projects, this serves as a great base for beginning to understand oth
 
 # About Myself
 
-🎯 I am a Fullstack developer in love with technology and keen to learn new things everyday. My strenghts reside in Python and JavaScript although I am not afraid to take on any other language.
+🎯 I am a alx- SoftwareEngineering Student. My strenghts reside in Python and JavaScript although I am not afraid to take on any other language.
 
-🎯 I have experience developing both back end and front end. I have used technologies such as Bootstrap, SASS, React, Flask, Django, Express, SQL, MongoDB, AWS, among others.
+🎯 I am CurrentlyworkingasICT DirectorateDirector at AfarNationalRegionalStateHealthBureauof Ethiopia
 
-🎯 I also studied Sound Engineering some years ago, and I love music, videogames, and audiovisual media.
+🎯 Graduated
+   * From Haramaya University of Ethiopia with Bsc in Csc
+   * Currently Second Year Student at Semera University of Ethiopia for Masters of Science Degree on Computer Science
 
-🔹 [LinkedIn](https://www.linkedin.com/in/jhoan-stiven-zamora-caicedo/)
+🔹 [GitHub](https://www.github.com/aliabdela47/)
 
-🔹 [Twitter](https://twitter.com/JhoanZamora10)
+🔹 [Twitter](https://twitter.com/aliabdela4747)
